@@ -32,6 +32,7 @@ To get the Nodejs server running locally:
 - `server.js` - The entry point to our application. 
 - `routes/` - This folder contains the route definitions for our API.
 - `DB/` - This folder contains the file which is responsible for connecting to DB and sqlite3 data base.
+- `.env` - File contains environment variables like ACCESS_TOKEN_SECRET,DB_CONNECTION and server PORT
 
 ## Authentication
 ---
