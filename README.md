@@ -13,7 +13,6 @@ To get the Nodejs server running locally:
 - if you'r using [Visual Studio Code](https://code.visualstudio.com/) as IDE there is a file requests.rest in repo which use [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) to send HTTP requests from VS Code IDE or you can use [Postman](https://www.postman.com/)
 
 
-## Code Overview
 ---
 ### Dependencies
 ---
